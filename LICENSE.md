@@ -1,4 +1,4 @@
-#  
+#  Enhance OneNote for macOS with vip Macro for OneNote for macOS - goal tracking and version history, the #1 macro. Includes goal tracking and version history for a smoother
 
 
 
